@@ -44,10 +44,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ## 👨‍💻 Expert
 
-
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
         href="https://github.com/ThaisaCoutinho">
         GitHub
     </a>
