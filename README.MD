@@ -1,25 +1,5 @@
-![Capa](https://copilot.microsoft.com/images/create/crie-uma-imagem-para-capa-de-um-podcast-que-fala-s/1-66a5cdc4a8c84c5486ba7730a5a90e32?id=7AvMlawvUjpIS0pTBydBzA%3d%3d&view=detailv2&idpp=genimg&thId=OIG1.9tJ_bUT5Ar57n5dcVtay&FORM=GCRIDP&ajaxhist=0&ajaxserp=0)
+<img src="https://copilot.microsoft.com/images/create/crie-uma-imagem-para-capa-de-um-podcast-que-fala-s/1-66a5cdc4a8c84c5486ba7730a5a90e32?id=OMXBE8v4c5jOo8hmk3wwXA%3d%3d&view=detailv2&idpp=genimg&thId=OIG1.9AHvSjeUdkVUI2w477hf&FORM=GCRIDP&ajaxhist=0&ajaxserp=0" alt="Capa">
 
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
 
 # Projeto Podcast Gerado por I.A.s
 
