@@ -1,4 +1,4 @@
-<img src="https://copilot.microsoft.com/images/create/crie-uma-imagem-para-capa-de-um-podcast-que-fala-s/1-66a5cdc4a8c84c5486ba7730a5a90e32?id=OMXBE8v4c5jOo8hmk3wwXA%3d%3d&view=detailv2&idpp=genimg&thId=OIG1.9AHvSjeUdkVUI2w477hf&FORM=GCRIDP&ajaxhist=0&ajaxserp=0" alt="Capa">
+<img src="C:\Users\thais\OneDrive\Área de Trabalho\th.pnj.jpg" alt="Capa">
 
 
 # Projeto Podcast Gerado por I.A.s
