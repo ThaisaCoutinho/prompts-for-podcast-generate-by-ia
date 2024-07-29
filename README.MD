@@ -1,7 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
-    width="300"
+   "C:\Users\thais\OneDrive\Área de Trabalho\podcast.jpg"
 />
 </p>
 
