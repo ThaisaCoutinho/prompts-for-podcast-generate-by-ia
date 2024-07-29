@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-   "C:\Users\thais\OneDrive\Área de Trabalho\podcast.jpg"
+  file:///C:/Users/thais/OneDrive/%C3%81rea%20de%20Trabalho/podcast.jpg
 />
 </p>
 
