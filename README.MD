@@ -1,4 +1,4 @@
-![Capa](https://www.bing.com/images/search?view=detailV2&insightstoken=bcid_srXrVAbKLFIHWv3k030Y1CziqCXb.....yY*ccid_tetUBsos&form=ANCMS1&iss=SBIUPLOADGET&selectedindex=0&id=-1961338887&ccid=tetUBsos&exph=600&expw=600&vt=2&sim=11)
+![Capa](https://copilot.microsoft.com/images/create/crie-uma-imagem-para-capa-de-um-podcast-que-fala-s/1-66a5cdc4a8c84c5486ba7730a5a90e32?id=7AvMlawvUjpIS0pTBydBzA%3d%3d&view=detailv2&idpp=genimg&thId=OIG1.9tJ_bUT5Ar57n5dcVtay&FORM=GCRIDP&ajaxhist=0&ajaxserp=0)
 
 <p align="center">
 <a href="https://dio.me/">
