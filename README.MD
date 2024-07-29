@@ -1,4 +1,4 @@
-<img src="C:\Users\thais\OneDrive\Área de Trabalho\th.pnj.jpg" alt="Capa">
+<img src="https://tse2.mm.bing.net/th?id=OIG1.9AHvSjeUdkVUI2w477hf&pid=ImgGn" alt="Capa">
 
 
 # Projeto Podcast Gerado por I.A.s
